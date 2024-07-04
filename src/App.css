@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.input-container {
+  margin: 20px 0;
+}
+
+
+.todo-list {
+  display: flex;
+  flex-wrap: wrap;
+
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.todo-item {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid green;
+  border-radius: 10px;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+}
